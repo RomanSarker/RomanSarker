@@ -1,4 +1,4 @@
-👋 Hi, I’m @RomanSarker  
+## 👋 Hi, I’m @RomanSarker  
 - 👀 I’m interested in Coding & Software Quality Assurance (SQA)  
 - 🌱 I’m currently learning Javascript, SQL and SQA best practices  
 - 💞️ I’m looking to collaborate on Web Development & Testing projects  
